@@ -10,7 +10,7 @@ Creating Product Landing Page
 
 ## Live View
 
-[Product-Landing-Page] (https://earnest-buttercream-a468e4.netlify.app/)
+[Product-Landing-Page](https://earnest-buttercream-a468e4.netlify.app/)
 
 ## Built With
 
